@@ -4,4 +4,4 @@ In this Capstone Project, I have studied the key factors of the World Happiness 
 
 The data is collected from the public domain for analysis.
 
-To run the model, unzip the file Happiness.zip in the Python's current working directory. It will create the Happiness.pynb file along with the data directory Data_Happiness. 
+To run the model, keep the Happiness.ipynb file in the Python's current working directory and the datafiles under the subdirectory names NewData under the Python's current working directory. 
